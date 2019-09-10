@@ -1,0 +1,2 @@
+# nova
+AI Assistant Project
