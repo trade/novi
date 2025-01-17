@@ -1,2 +1,3 @@
-# nova
-AI Assistant Project
+# NOVI
+
+Frontend
